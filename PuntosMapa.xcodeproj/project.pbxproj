@@ -291,6 +291,7 @@
 				63B6ADDB1CE3CE1500464803 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
